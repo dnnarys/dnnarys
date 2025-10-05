@@ -9,7 +9,7 @@ I’m currently pursuing a Bachelor of Science in Information Systems at the Uni
 My academic and project experience have helped me develop skills in programming, database management, and user-focused design.  
 I’m currently expanding my knowledge in data analytics and visualization to strengthen my ability to transform data into meaningful insights.
 
-## Technical Interests 🩷
+## Technical Interests 🍎
 - Database Design & Management  
 - Software Development (Java, SQL, HTML, CSS, JavaScript)  
 - UI/UX Design and Front-End Development  
